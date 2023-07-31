@@ -203,7 +203,7 @@ body {
       foreach($result as $item) {
     ?>
     <div class="product-card">
-      <img src="Image/<?php echo $item["Image"]; ?>" alt="<?php echo $item["Name"]; ?>">
+      <img src="image/<?php echo $item["Image"]; ?>" alt="<?php echo $item["Name"]; ?>">
       <h3><?php echo $item["Name"]; ?></h3>
       <p><?php echo $item["Price"]; ?></p>
       <a href="addcart.php?idpro=<?php echo $item["Id"]?>">Add to Cart</a>

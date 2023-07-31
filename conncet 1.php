@@ -1,8 +1,8 @@
 <?php
-  $servername = 'us-cdbr-east-06.cleardb.net';
-  $username = 'b521b45c895dd7';
-  $password = '07998afa';
-  $database = 'heroku_3993de4450eb54e';
+   $servername = 'us-cdbr-east-06.cleardb.net';
+   $username = 'bf0e31f2b575da';
+   $password = '7b421c39';
+   $database = 'heroku_ac3be1bd3be83bb';
   
   try
   {
