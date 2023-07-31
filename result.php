@@ -93,7 +93,7 @@
 	
 	<a href="cartu.php">View cart</a>
 
-	<a href="ViewBill.php">View all orders</a>
+	<a href="viewbill.php">View all orders</a>
 	
 	</div>	 
 	<div class="footer">
