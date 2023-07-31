@@ -153,7 +153,7 @@
                     <tr> <td>   <?php echo $item["Name"]?> </td> </tr>
                     <tr> <td> 
                         <a href="productdetail.php?idpro=<?php echo $item["Id"]?>"> 
-                        <Img src = "Image/<?php echo $item["Image"]; ?>" height = "230px" width = "260px" ></a> 
+                        <Img src = "image/<?php echo $item["Image"]; ?>" height = "230px" width = "260px" ></a> 
                     </td> </tr>
                     <tr> <td> <?php echo $item ["Price"]?> </td> </tr>
 					<tr> <td>
