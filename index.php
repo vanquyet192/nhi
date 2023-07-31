@@ -89,7 +89,7 @@
         <li><a href="product.php">Shop</a></li>
         <li><a href="news.php">News</a></li>
         <li><a href="contact.php">Contact</a></li>
-        <li><a href="search.php">Search</a></li>
+        <li><a href="Search.php">Search</a></li>
       </ul>
     </div>
 	     	

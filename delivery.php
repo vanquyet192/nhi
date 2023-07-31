@@ -88,7 +88,7 @@
 			    	<li><a href="product.php">Shop</a></li>
 			    	<li><a href="news.php">News</a></li>
 			    	<li><a href="contact.php">Contact</a></li>
-					<li><a href="search.php">Search Product</a></li>
+					<li><a href="Search.php">Search Product</a></li>
 			    	<div class="clear"></div>
      			</ul>
 	     	</div>
@@ -135,16 +135,16 @@
 									   <div class="features_list">
 									   	<h4>Get to Know More About Our Memorable Services</h4>							               
 							            </div>
-							             <a href="preview.html" class="button">Shop Now</a>
+							             <a href="preview.php" class="button">Shop Now</a>
 					                   </div>		
 						             	 <div class="slider-img">
-									     <a href="preview.html"><img src="images/sl1.jpg" alt="learn more" /></a>
+									     <a href="preview.php"><img src="images/sl1.jpg" alt="learn more" /></a>
 									  </div>						             					                 
 									  <div class="clear"></div>				
 				                  </div>
 				                  <div class="slide">						             	
 					                  <div class="slider-img">
-									     <a href="preview.html"><img src="images/sl3.jpg" alt="learn more" /></a>
+									     <a href="preview.php"><img src="images/sl3.jpg" alt="learn more" /></a>
 									  </div>
 									  <div class="slider-text">
 		                                 <h1>Clearance<br><span>SALE</span></h1>
@@ -152,7 +152,7 @@
 									   <div class="features_list">
 									   	<h4>Get to Know More About Our Memorable Services Lorem Ipsum is simply dummy text</h4>							               
 							            </div>
-							             <a href="preview.html" class="button">Shop Now</a>
+							             <a href="preview.php" class="button">Shop Now</a>
 					                   </div>	
 									  <div class="clear"></div>				
 				                  </div>												
@@ -185,7 +185,7 @@
 							<p><span class="rupees">720.00</span></p>
 					    </div>
 					       		<div class="add-cart">								
-									<h4><a href="preview.html">Add to Cart</a></h4>
+									<h4><a href="preview.php">Add to Cart</a></h4>
 							     </div>
 							 <div class="clear"></div>
 					</div>
@@ -199,7 +199,7 @@
 							<p><span class="rupees">2.500.00</span></p>
 					    </div>
 					       		<div class="add-cart">								
-									<h4><a href="preview.html">Add to Cart</a></h4>
+									<h4><a href="preview.php">Add to Cart</a></h4>
 							     </div>
 							 <div class="clear"></div>
 					</div>

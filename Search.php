@@ -157,7 +157,7 @@ body {
         <li><a href="product.php">Shop</a></li>
         <li><a href="news.php">News</a></li>
         <li><a href="contact.php">Contact</a></li>
-        <li><a href="search.php">Search</a></li>
+        <li><a href="Search.php">Search</a></li>
 			    	<div class="clear"></div>
      			</ul>
 	     	</div>
@@ -167,7 +167,7 @@ body {
  
 
   <div class="form-container">
-    <form action="search.php" method="GET">
+    <form action="Search.php" method="GET">
       <input type="text" name="product_name" placeholder="Product Name">
       <input type="text" name="price" placeholder="Price">
       <input type="submit" name="search" value="Search">
