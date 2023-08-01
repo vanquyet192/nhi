@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML>
 <head>
 <title></title>
@@ -122,8 +121,9 @@
                     <input type="text" name="username" placeholder="Username" required><br>
                     <input type="password" name="password" placeholder="Password" required><br>
                     <input type="submit" name="ok" value="Login">
-                    <input type="submit" name="dk" value="Register">
+                   
                 </form>
+<p>Don't have an account? <a href="register.php">Register here</a></p>
 			</br>
 <?php
 if(isset($_POST["ok"]))
@@ -230,4 +230,3 @@ if(isset($_POST["hi"]))
 	
 </body>
 </html>
-
