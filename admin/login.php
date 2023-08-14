@@ -74,7 +74,7 @@ body {
 			</div>
 			<div class="account_desc">
 				<ul>
-				<li><a href="index.php" style="background-color:#003333;">Home</a></li>
+				<li><a href="../index.php" style="background-color:#003333;">Home</a></li>
 				
 
 				</ul>
