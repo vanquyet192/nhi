@@ -95,7 +95,7 @@ body {
 				<div class="grid_1_of_4 images_1_of_4" >
 <h1 class="form-heading"> Login Admin</h1> </br> 
 <div class="form-container">
-<form action="Login.php" method="post"  style="color:#666699" >
+<form action="login.php" method="post"  style="color:#666699" >
 Username: <input type="text" name="username" /><br /> </br> 
 Password: <input type="password" name="password" /><br /> </br> 
 <input type="submit" name="ok" value="Login" style="background-color:#4A708B;"  /> </br> 
