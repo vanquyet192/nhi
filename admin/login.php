@@ -119,7 +119,7 @@ Password: <input type="password" name="password" /><br /> </br>
 				if ($result && $result["Password"] == $password) {
 					$_SESSION["sadmin"] = $username;
 					$_SESSION["srole"] = $result["Role"];
-					header("Location: manage.php");
+					header("Location:manage.php");
 					exit;
 				} else {
 					echo "Invalid username or password.";
